@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lucasskluser-blue?logo=linkedin)](https://www.linkedin.com/in/lucasskluser)
 [![HackerRank](https://img.shields.io/badge/HackerRank-lucasskluser-green?logo=hackerrank)](https://www.hackerrank.com/lucasskluser)
-[![Medium](https://img.shields.io/badge/Medium-lucasskluser-yellow)](https://lucasskluser.medium.com)
+<!-- [![Medium](https://img.shields.io/badge/Medium-lucasskluser-yellow)](https://lucasskluser.medium.com) -->
 
 <a href="https://pt.stackoverflow.com/users/165800/lucas-samuel"><img src="https://pt.stackoverflow.com/users/flair/165800.png" width="208" height="58" alt="perfil de Lucas Samuel em Stack Overflow em Portugu&#234;s, Perguntas e respostas para programadores profissionais e entusiastas" title="perfil de Lucas Samuel em Stack Overflow em Portugu&#234;s, Perguntas e respostas para programadores profissionais e entusiastas"></a>
 
